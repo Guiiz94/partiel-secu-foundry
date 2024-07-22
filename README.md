@@ -1,6 +1,6 @@
 ## Explication code foundry
 
-### Script pour addPoint : nocheck
+### Script pour addPoint : check
 J'ai du passer par un contrat intermédiaire pour afin d'appeler la fonction addPoint de deux addresses différentes.
 
 ### Script pour transfer : check
@@ -16,3 +16,4 @@ Pour obtenir les points ici, il quffit juste d'avoir un msg.value et d'envoyer u
 J'initialise hackMeIfYouCan avec un password et un tableau de 16 cases et je rentre une clé au format hexadécimal à la 13ème case ([12]). Ensuite, je test la fonction sendKey avec la clé en question.
 
 ### Script pour Flip : nocheck
+Transaction failure
